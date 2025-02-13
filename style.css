@@ -37,11 +37,6 @@ img {
   font-weight: 600;
 }
 
-.btn:disabled {
-  background-color: grey;
-  cursor: not-allowed;
-}
-
 .anime-name {
   margin: 20px;
   background-color: rgb(36, 73, 34);
